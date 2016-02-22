@@ -1,0 +1,6 @@
+[package]
+name = "mersenne-twister"
+version = "0.1.0"
+authors = ["CoiroTomas <coirotomas@gmail.com>"]
+
+[dependencies]
